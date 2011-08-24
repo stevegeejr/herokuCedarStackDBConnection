@@ -1,0 +1,47 @@
+.border{
+	border-style:solid;
+	border-width:1px;
+	border-color:#000000;
+}
+
+.headerBold{
+	background-color: #1797C0;
+   font-weight:bold;
+	font-size: 18;
+	color: #FFFFFF;
+}
+.header{
+	background-color: #1797C0;
+	font-size: 16;
+	color: #FFFFFF;
+}
+
+.rowA{
+	background-color: #DDEFF4;
+}
+.rowB{
+	background-color: #FFFFFF;
+}
+
+.sfdcHeader{
+	background-color: #1797C0;
+	color: #FFFFFF;
+
+}
+
+
+input.sfdcButton
+{
+   font-weight:bold;
+   color:#FFFFFF;
+   background-color:#1797C0;
+}
+
+.metadata{
+   font-weight:bold;
+   color:#999999	
+}
+
+A:link {text-decoration: none;color: #000000}
+A:active {text-decoration: none;color: #000000}
+A:visited {text-decoration: none;color: #000000}
