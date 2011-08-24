@@ -26,8 +26,8 @@
 				variable, parse the connection string and connect to the 
 				database.<p>The Connection code can be fetched from [<a target="_source" href="PostGresDBManager.java">HERE</a>]<p>
 				Full Source:
-				<a href="https://stevegeejr@github.com/stevegeejr/herokuCedarStackDBConnection.git">
-				https://stevegeejr@github.com/stevegeejr/herokuCedarStackDBConnection.git</a></td>
+				<a href="https://github.com/stevegeejr/herokuCedarStackDBConnection">
+				https://github.com/stevegeejr/herokuCedarStackDBConnection</a></td>
 			</tr>
 			<tr>
 				<td>
